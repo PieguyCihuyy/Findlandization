@@ -22,3 +22,5 @@ Tempat proyek, dokumentasi, dan sumber daya dari komunitas Findlandization.
 ## Kontak
 
 - GitHub: [PieguyCihuyy](https://github.com/PieguyCihuyy)
+
+![Banner](./6ff8538b83e320b8d9c6e1dc5b2dad2a)
